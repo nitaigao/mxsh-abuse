@@ -1,0 +1,8 @@
+{
+  "name": "abuse",
+  "description": "Forwards bounce notifications to the back end",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::304234435373:role/bounces_lambda_function",
+  "environment": {}
+}
